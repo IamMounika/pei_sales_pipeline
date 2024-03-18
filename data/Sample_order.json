@@ -1,0 +1,93 @@
+[
+    {
+    "Row ID": 33,
+    "Order ID": "CA-2015-123092",
+    "Order Date": "3/12/2015",
+    "Ship Date": "7/12/2015",
+    "Ship Mode": "Standard Class",
+    "Customer ID": "JG-15115",
+    "Product ID": "OFF-BI-10001718",
+    "Quantity": 5,
+    "Price": 95,
+    "Discount": 0.7,
+    "Profit": -73.577
+  },
+  {
+    "Row ID": 34,
+    "Order ID": "CA-2017-126354",
+    "Order Date": "3/2/2017",
+    "Ship Date": "8/2/2017",
+    "Ship Mode": "Standard Class",
+    "Customer ID": "SC-20380",
+    "Product ID": "OFF-PA-10004381",
+    "Quantity": 3,
+    "Price": 115.296,
+    "Discount": 0.2,
+    "Profit": 40.3536
+  },
+  {
+    "Row ID": 35,
+    "Order ID": "CA-2015-109575",
+    "Order Date": "18/9/2015",
+    "Ship Date": "23/9/2015",
+    "Ship Mode": "Standard Class",
+    "Customer ID": "KH-16630",
+    "Product ID": "TEC-PH-10000730",
+    "Quantity": 1,
+    "Price": 499.99,
+    "Discount": 0,
+    "Profit": 129.9974
+  },
+  {
+    "Row ID": 36,
+    "Order ID": "CA-2014-111451",
+    "Order Date": "26/12/2014",
+    "Ship Date": "28/12/2014",
+    "Ship Mode": "First Class",
+    "Customer ID": "KL-16555",
+    "Product ID": "OFF-BI-10004593",
+    "Quantity": 5,
+    "Price": 78.6,
+    "Discount": 0.7,
+    "Profit": -62.88
+  },
+  {
+    "Row ID": 37,
+    "Order ID": "CA-2017-133256",
+    "Order Date": "26/6/2017",
+    "Ship Date": "27/6/2017",
+    "Ship Mode": "First Class",
+    "Customer ID": "TH-21550",
+    "Product ID": "TEC-PH-10002660",
+    "Quantity": 8,
+    "Price": 543.92,
+    "Discount": 0,
+    "Profit": 135.98
+  },
+  {
+    "Row ID": 38,
+    "Order ID": "CA-2014-128888",
+    "Order Date": "15/11/2014",
+    "Ship Date": "22/11/2014",
+    "Ship Mode": "Standard Class",
+    "Customer ID": "PB-19105",
+    "Product ID": "OFF-EN-10003001",
+    "Quantity": 9,
+    "Price": 604.656,
+    "Discount": 0.2,
+    "Profit": 204.0714
+  },
+  {
+    "Row ID": 39,
+    "Order ID": "CA-2016-106243",
+    "Order Date": "30/9/2016",
+    "Ship Date": "4/10/2016",
+    "Ship Mode": "Standard Class",
+    "Customer ID": "GM-14680",
+    "Product ID": "FUR-BO-10003034",
+    "Quantity": 5,
+    "Price": 523.92,
+    "Discount": 0.2,
+    "Profit": -26.196
+  }
+]  
